@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yue233.github.io</id>
     <title>Yue&apos;s Blog</title>
-    <updated>2020-03-07T12:19:31.146Z</updated>
+    <updated>2020-03-07T12:24:32.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yue233.github.io"/>
     <link rel="self" href="https://yue233.github.io/atom.xml"/>
@@ -10,6 +10,47 @@
     <logo>https://yue233.github.io/images/avatar.png</logo>
     <icon>https://yue233.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Yue&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://yue233.github.io/post/about/</id>
+        <link href="https://yue233.github.io/post/about/">
+        </link>
+        <updated>2020-01-23T12:23:44.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>一名普通初中生，坐标北京，假装自己是个经验丰富的成年人。</p>
+</blockquote>
+<h2 id="我yue">我（Yue）</h2>
+<h4 id="生活网络">生活/网络</h4>
+<p>生活中的我学习一般、成绩一般、长相一般。<br>
+网络上的我技术一般、QQ等级一般。<br>
+如果用一句话概括我的话，或许就是“一个一生平凡的人”但“平凡”而不是“平庸”。</p>
+<h4 id="理想">理想</h4>
+<p>家境虽然普通，但常抱有梦想。<br>
+小时候想要成为航天员，在宇宙虚空之中做星际旅行。<br>
+小学的时候想成为一名科学家，制造时光机器，穿越未来，回到过去。我想回到那大唐盛世，去一睹风华。我想回到那鼎盛的宋朝，去看那历史中经济文化发展的繁荣。<br>
+现在的梦想是可以在未来考上个好大学、拥有一个漂亮和我趣味相投的女票、家人健康，如此足以。</p>
+<h4 id="社交">社交</h4>
+<p>QQ:448348683<br>
+Email:yue@aenjoy.cn<br>
+Telegram:YueGe</p>
+<h4 id="性格思想">性格/思想</h4>
+<blockquote>
+<p>或许可以简单认识一下我</p>
+</blockquote>
+<ul>
+<li><a href="https://www.16personalities.com/ch">十六型人格测试</a>—— 指挥官</li>
+<li>PolitiScales—— 平等・祖国・社会主义</li>
+<li>闷骚/乐观/不丧/爱运动/脾气好</li>
+</ul>
+<hr>
+<h2 id="关于本站">关于本站</h2>
+<p>(站点建立时间：乙亥年腊月二十九)<br>
+初识个人博客是在17年左右接近18年，因为是刚刚接触互联网这个庞然大物，很多东西都不是很明白，糊糊涂涂的就在一个大佬群里被忽悠搞起了个人博客。最初的一个站点是使用Emlog作为建站系统的，但因为种种原因还是没有坚持住。接触Typecho大约是在18年的夏天那一段时间。那时候在烟雨寒云大佬的博客上浏览了许久。于是就入坑了，第一款购买的模板就是Handsome。正如那句话所说的“Typecho虐我千百遍，我待Typecho如初恋。”</p>
+<p>在这段时间里也认识了许多的大佬、好友，如<a href="https://guhub.cn/">可乐（现在已经是拥有上百Star的巨佬了）</a>、枂下(暂时失踪)、<a href="https://iiycy.com/">老烨（猥琐大叔？）</a>所坚持下来的人无一没有成为大佬，话说如果我当初一直坚持到现在，我会不会也是一个“巨佬”呢？（想想就好了）</p>
+<p>关于这个网站没有太多故事，多的只是遗憾。这次应该完全意义来说是第三次博客重建。一切都是新的，人，也是新的。电脑快没电了，字数差不多了多的就不写了，希望哪天自己坚持不下去了可以看到今天所写的这段话。接下来的日子尽力的写一些自己满意、想写的文章吧。至此，共勉。<br>
+2019.1.23 距离大年三十还有1个小时</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://yue233.github.io/post/hello-gridea/</id>
