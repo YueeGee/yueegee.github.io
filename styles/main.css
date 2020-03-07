@@ -976,7 +976,7 @@ td {
 }
 
       .main {
-        max-width: 650px;
+        max-width: 680px;
       }
     
       .post-container .post .post-title {
@@ -994,5 +994,9 @@ td {
     
       body {
         font-family: -apple-system,BlinkMacSystemFont,'Helvetica Neue','PingFang SC','Hiragino Sans GB','Droid Sans Fallback','Microsoft YaHei',sans-serif;
+      }
+    
+      a:hover {
+        color: #ffa8a8;
       }
     
