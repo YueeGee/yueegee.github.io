@@ -2,14 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yue233.github.io</id>
     <title>Yue&apos;s Blog</title>
-    <updated>2020-03-07T12:41:44.906Z</updated>
+    <updated>2020-03-07T12:48:32.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yue233.github.io"/>
     <link rel="self" href="https://yue233.github.io/atom.xml"/>
-    <subtitle>我不是悲观主义者。</subtitle>
+    <subtitle>我不是什么悲观主义者。</subtitle>
     <logo>https://yue233.github.io/images/avatar.png</logo>
     <icon>https://yue233.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Yue&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[鸽了很久的一篇文章]]></title>
+        <id>https://yue233.github.io/post/start/</id>
+        <link href="https://yue233.github.io/post/start/">
+        </link>
+        <updated>2020-01-23T12:43:11.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>有些话很久就想说，就想写了。有些事情很久就有想法想开始做了。但到现在才开始说、开始做，归结原因还不是懒么。从今天起，我不再是一个鸽子。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>有些话很久就想说，就想写了。有些事情很久就有想法想开始做了。但到现在才开始说、开始做，归结原因还不是懒么。从今天起，我不再是一个鸽子。</p>
+</blockquote>
+<!--more-->
+<p>一件事坚持下来真的很难。</p>
+<p>今天是己亥年腊月二十九,明天就是除夕了。我也不知道我是从哪又来的动力把这个“濒临死亡”的小站点又重新搞了起来。不晓得这次可以坚持多久、不晓得这次是不是三分热度，但这次肯定是会尽我自己最大的努力维护好这个站点。</p>
+<p>古人言：“善始者实繁,可终者盖寡。”一些事开始的时候或许人人都能做的很好,但真正坚持下来的却没有几个。对于这些日子的淡网，这次重新来过或许也不再追求什么酷炫的模板、写什么技术文章了。现在唯一的目的就是把网站运行下去，写一些真实、自己想写的东西。</p>
+<p>在平常的生活中我也许就是一个闷骚的人，有时内向、有时外向。关于我这个人，我在<a href="/about.html">About界面</a>中已经简单写道，正如小时候的理想和现在的理想，也只不过是局限在自己周围人的身上。但是我也不甘于现状，不甘于平庸。</p>
+<p>至于这次建站的初衷简单来说就是为了“长见识”。在维护自己博客的当中学习技术、练好文笔、增长见识、结交朋友。生活不也就那样，所以说，这有什么难的？（微微心虚）</p>
+<p>关于本站的未来发展计划应该也会围绕生活来写，技术文的话能尽力写就尽力写吧，毕竟能力有限。如果今天算是本站的生日的话，那我希望我可以在一周年的时候这个网站还存在着。（很简单的一个小目标）</p>
+<p>多的就不说了，反正也写不出来啥了（这句划掉）。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://yue233.github.io/post/hello-gridea/</id>
