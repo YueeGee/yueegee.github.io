@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.aenjoy.cn</id>
-    <title>Yue&apos;s Blog</title>
-    <updated>2020-03-08T07:11:45.401Z</updated>
+    <title>YueGe</title>
+    <updated>2020-03-08T07:13:53.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.aenjoy.cn"/>
     <link rel="self" href="https://blog.aenjoy.cn/atom.xml"/>
     <subtitle>我并不是什么悲观主义者。</subtitle>
     <logo>https://blog.aenjoy.cn/images/avatar.png</logo>
     <icon>https://blog.aenjoy.cn/favicon.ico</icon>
-    <rights>All rights reserved 2020, Yue&apos;s Blog</rights>
+    <rights>All rights reserved 2020, YueGe</rights>
     <entry>
         <title type="html"><![CDATA[世间再无黑曼巴]]></title>
         <id>https://blog.aenjoy.cn/post/Black-Mamba/</id>
