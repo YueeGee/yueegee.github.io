@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://yue233.github.io</id>
     <title>YueGe</title>
-    <updated>2020-03-09T07:24:07.062Z</updated>
+    <updated>2020-03-09T07:44:28.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://yue233.github.io"/>
+    <link rel="self" href="https://yue233.github.io/atom.xml"/>
     <subtitle>我并不是什么悲观主义者。</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://yue233.github.io/images/avatar.png</logo>
+    <icon>https://yue233.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, YueGe</rights>
     <entry>
         <title type="html"><![CDATA[Gridea——基于Github Page]]></title>
-        <id>http://localhost:4000/post/hello-gridea/</id>
-        <link href="http://localhost:4000/post/hello-gridea/">
+        <id>https://yue233.github.io/post/hello-gridea/</id>
+        <link href="https://yue233.github.io/post/hello-gridea/">
         </link>
         <updated>2020-03-06T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>我做出了一个新的白嫖尝试——将博客系统更换为静态博客系统Gridea。</p>
-<p>Gridea 是一个静态博客写作客户端，帮助你更容易地构建并管理博客或任何静态站点。一起使用Gridea。然后，爱上它吧！</p>
-]]></summary>
         <content type="html"><![CDATA[<p>我做出了一个新的白嫖尝试——将博客系统更换为静态博客系统Gridea。</p>
-<p>Gridea 是一个静态博客写作客户端，帮助你更容易地构建并管理博客或任何静态站点。一起使用Gridea。然后，爱上它吧！</p>
-<!-- more -->
-<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/yue233/image-hosting/img/20200309101516.png" alt="1" loading="lazy"></figure>
+<p>Gridea 是一个静态博客写作客户端，帮助你更容易地构建并管理博客或任何静态站点。</p>
+<p>一起使用Gridea。然后，爱上它吧！<br>
+<img src="https://cdn.jsdelivr.net/gh/yue233/image-hosting/img/20200309101516.png" alt="1" loading="lazy"></p>
 <h2 id="特征">特征</h2>
 <p>📝 使用最酷的 Markdown语法快速创建</p>
 <p>🌉 在文章中的任何位置插入图片和文章封面图</p>
@@ -46,8 +43,8 @@ CDN加速基于：<a href="https://www.cloudflare.com/">Cloudflare</a><br>
     </entry>
     <entry>
         <title type="html"><![CDATA[世间再无黑曼巴]]></title>
-        <id>http://localhost:4000/post/Black-Mamba/</id>
-        <link href="http://localhost:4000/post/Black-Mamba/">
+        <id>https://yue233.github.io/post/Black-Mamba/</id>
+        <link href="https://yue233.github.io/post/Black-Mamba/">
         </link>
         <updated>2020-01-27T13:11:16.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -76,8 +73,8 @@ CDN加速基于：<a href="https://www.cloudflare.com/">Cloudflare</a><br>
     </entry>
     <entry>
         <title type="html"><![CDATA[春节、年味]]></title>
-        <id>http://localhost:4000/post/2020/</id>
-        <link href="http://localhost:4000/post/2020/">
+        <id>https://yue233.github.io/post/2020/</id>
+        <link href="https://yue233.github.io/post/2020/">
         </link>
         <updated>2020-01-24T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -104,8 +101,8 @@ CDN加速基于：<a href="https://www.cloudflare.com/">Cloudflare</a><br>
     </entry>
     <entry>
         <title type="html"><![CDATA[鸽了很久的一篇文章]]></title>
-        <id>http://localhost:4000/post/start/</id>
-        <link href="http://localhost:4000/post/start/">
+        <id>https://yue233.github.io/post/start/</id>
+        <link href="https://yue233.github.io/post/start/">
         </link>
         <updated>2020-01-23T12:43:11.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
