@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yue233.github.io</id>
     <title>YueGe</title>
-    <updated>2020-03-09T02:09:11.914Z</updated>
+    <updated>2020-03-09T02:10:04.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yue233.github.io"/>
     <link rel="self" href="https://yue233.github.io/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://yue233.github.io/images/avatar.png</logo>
     <icon>https://yue233.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, YueGe</rights>
+    <entry>
+        <title type="html"><![CDATA[Gridea——基于Github Page]]></title>
+        <id>https://yue233.github.io/post/hello-gridea/</id>
+        <link href="https://yue233.github.io/post/hello-gridea/">
+        </link>
+        <updated>2020-03-06T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>我做出了一个新的白嫖尝试——将博客系统更换为静态博客系统Gridea。<br>
+Gridea 是一个静态博客写作客户端，帮助你更容易地构建并管理博客或任何静态站点。</p>
+<h2 id="特征">特征</h2>
+<p>📝 使用最酷的 Markdown语法快速创建</p>
+<p>🌉 在文章中的任何位置插入图片和文章封面图</p>
+<p>🏷️ 标签和分组文章</p>
+<p>📋 自定义菜单，甚至创建外部链接菜单</p>
+<p>💻 在Windows或MacOS 或Linux上使用此客户端</p>
+<p>🌎 使用Github页面或编码页面向世界展示未来将支持更多平台</p>
+<p>💬 只需配置和访问Gitalk或DisqusJS评论系统</p>
+<p>🇬🇧 使用简体中文，繁体中文，英文</p>
+<p>🌁 使用应用程序内的任何默认主题或任何第三方主题，免费主题定制</p>
+<p>🖥 使用OneDrive，iCloud，Dropbox等自定义源文件夹并同步多个设备。</p>
+<h2 id="当前网站状态">当前网站状态</h2>
+<p>网站托管于<a href="https://github.com/">Github</a><br>
+CDN加速基于<a href="https://www.cloudflare.com/">cloudflare</a><br>
+图床 GitHub+JsDelivr</p>
+<h2 id="最后">最后</h2>
+<p>网站使用Github Page速度还是有点虚，搭配上CF速度稍稍有点改观。但也后续可能会进行备案然后转移到Coding，但这也只是计划。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世间再无黑曼巴]]></title>
         <id>https://yue233.github.io/post/Black-Mamba/</id>
