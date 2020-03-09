@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yue233.github.io</id>
     <title>YueGe</title>
-    <updated>2020-03-09T02:10:04.077Z</updated>
+    <updated>2020-03-09T02:23:57.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yue233.github.io"/>
     <link rel="self" href="https://yue233.github.io/atom.xml"/>
@@ -16,8 +16,13 @@
         <link href="https://yue233.github.io/post/hello-gridea/">
         </link>
         <updated>2020-03-06T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>我做出了一个新的白嫖尝试——将博客系统更换为静态博客系统Gridea。<br>
-Gridea 是一个静态博客写作客户端，帮助你更容易地构建并管理博客或任何静态站点。</p>
+        <summary type="html"><![CDATA[<p>我做出了一个新的白嫖尝试——将博客系统更换为静态博客系统Gridea。</p>
+<p>Gridea 是一个静态博客写作客户端，帮助你更容易地构建并管理博客或任何静态站点。一起使用Gridea。然后，爱上它吧！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>我做出了一个新的白嫖尝试——将博客系统更换为静态博客系统Gridea。</p>
+<p>Gridea 是一个静态博客写作客户端，帮助你更容易地构建并管理博客或任何静态站点。一起使用Gridea。然后，爱上它吧！</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/yue233/image-hosting/img/20200309101516.png" alt="1" loading="lazy"></figure>
 <h2 id="特征">特征</h2>
 <p>📝 使用最酷的 Markdown语法快速创建</p>
 <p>🌉 在文章中的任何位置插入图片和文章封面图</p>
@@ -28,13 +33,15 @@ Gridea 是一个静态博客写作客户端，帮助你更容易地构建并管�
 <p>💬 只需配置和访问Gitalk或DisqusJS评论系统</p>
 <p>🇬🇧 使用简体中文，繁体中文，英文</p>
 <p>🌁 使用应用程序内的任何默认主题或任何第三方主题，免费主题定制</p>
-<p>🖥 使用OneDrive，iCloud，Dropbox等自定义源文件夹并同步多个设备。</p>
+<p>🖥 使用OneDrive，iCloud，Dropbox等自定义源文件夹并同步多个设备。<br>
+<img src="https://cdn.jsdelivr.net/gh/yue233/image-hosting/img/20200309101521.png" alt="2" loading="lazy"></p>
 <h2 id="当前网站状态">当前网站状态</h2>
-<p>网站托管于<a href="https://github.com/">Github</a><br>
-CDN加速基于<a href="https://www.cloudflare.com/">cloudflare</a><br>
-图床 GitHub+JsDelivr</p>
+<p>网站托管于：<a href="https://github.com/">Github Page</a><br>
+CDN加速基于：<a href="https://www.cloudflare.com/">Cloudflare</a><br>
+图床： GitHub+JsDelivr</p>
 <h2 id="最后">最后</h2>
-<p>网站使用Github Page速度还是有点虚，搭配上CF速度稍稍有点改观。但也后续可能会进行备案然后转移到Coding，但这也只是计划。</p>
+<p>网站使用Github Page速度还是有点虚，搭配上CF速度稍稍有点改观。<br>
+但也后续可能会进行备案然后转移到Coding，但这也只是计划。</p>
 ]]></content>
     </entry>
     <entry>
