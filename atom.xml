@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yue233.github.io</id>
+    <id>https://yueegee.github.io</id>
     <title>YueGe</title>
-    <updated>2020-03-09T07:44:28.788Z</updated>
+    <updated>2020-03-09T12:00:16.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://yue233.github.io"/>
-    <link rel="self" href="https://yue233.github.io/atom.xml"/>
+    <link rel="alternate" href="https://yueegee.github.io"/>
+    <link rel="self" href="https://yueegee.github.io/atom.xml"/>
     <subtitle>我并不是什么悲观主义者。</subtitle>
-    <logo>https://yue233.github.io/images/avatar.png</logo>
-    <icon>https://yue233.github.io/favicon.ico</icon>
+    <logo>https://yueegee.github.io/images/avatar.png</logo>
+    <icon>https://yueegee.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, YueGe</rights>
     <entry>
         <title type="html"><![CDATA[Gridea——基于Github Page]]></title>
-        <id>https://yue233.github.io/post/hello-gridea/</id>
-        <link href="https://yue233.github.io/post/hello-gridea/">
+        <id>https://yueegee.github.io/post/hello-gridea/</id>
+        <link href="https://yueegee.github.io/post/hello-gridea/">
         </link>
         <updated>2020-03-06T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>我做出了一个新的白嫖尝试——将博客系统更换为静态博客系统Gridea。</p>
@@ -43,8 +43,8 @@ CDN加速基于：<a href="https://www.cloudflare.com/">Cloudflare</a><br>
     </entry>
     <entry>
         <title type="html"><![CDATA[世间再无黑曼巴]]></title>
-        <id>https://yue233.github.io/post/Black-Mamba/</id>
-        <link href="https://yue233.github.io/post/Black-Mamba/">
+        <id>https://yueegee.github.io/post/Black-Mamba/</id>
+        <link href="https://yueegee.github.io/post/Black-Mamba/">
         </link>
         <updated>2020-01-27T13:11:16.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -73,8 +73,8 @@ CDN加速基于：<a href="https://www.cloudflare.com/">Cloudflare</a><br>
     </entry>
     <entry>
         <title type="html"><![CDATA[春节、年味]]></title>
-        <id>https://yue233.github.io/post/2020/</id>
-        <link href="https://yue233.github.io/post/2020/">
+        <id>https://yueegee.github.io/post/2020/</id>
+        <link href="https://yueegee.github.io/post/2020/">
         </link>
         <updated>2020-01-24T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -101,8 +101,8 @@ CDN加速基于：<a href="https://www.cloudflare.com/">Cloudflare</a><br>
     </entry>
     <entry>
         <title type="html"><![CDATA[鸽了很久的一篇文章]]></title>
-        <id>https://yue233.github.io/post/start/</id>
-        <link href="https://yue233.github.io/post/start/">
+        <id>https://yueegee.github.io/post/start/</id>
+        <link href="https://yueegee.github.io/post/start/">
         </link>
         <updated>2020-01-23T12:43:11.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
