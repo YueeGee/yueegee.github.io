@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yueegee.github.io</id>
     <title>YueGe</title>
-    <updated>2020-03-09T12:00:16.499Z</updated>
+    <updated>2020-03-10T07:24:31.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yueegee.github.io"/>
     <link rel="self" href="https://yueegee.github.io/atom.xml"/>
-    <subtitle>我并不是什么悲观主义者。</subtitle>
+    <subtitle>I have a dream.</subtitle>
     <logo>https://yueegee.github.io/images/avatar.png</logo>
     <icon>https://yueegee.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, YueGe</rights>
@@ -38,7 +38,7 @@ CDN加速基于：<a href="https://www.cloudflare.com/">Cloudflare</a><br>
 图床： GitHub+JsDelivr</p>
 <h2 id="最后">最后</h2>
 <p>网站使用Github Page速度还是有点虚，搭配上CF速度稍稍有点改观。<br>
-但也后续可能会进行备案然后转移到Coding，但这也只是计划。</p>
+但也后续可能会进行备案然后转移到Gitee，但这也只是计划。</p>
 ]]></content>
     </entry>
     <entry>
